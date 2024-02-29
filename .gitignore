@@ -11,4 +11,6 @@ GPT_weights
 SoVITS_weights
 TEMP
 .venv
-
+pretrained_models
+tools/damo_asr
+tools/uvr5/uvr5_weights
